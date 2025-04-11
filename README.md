@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KramerSoft
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on creating apps and websites
-- 📫 You can reach me via my private email
+- 🛠️ Coding for fun — Building things I like — Learning every day
 
 <!---
 KramerSoft/KramerSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
